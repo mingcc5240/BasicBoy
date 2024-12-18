@@ -1,0 +1,4 @@
+35 행: cd 컨트롤의 MSComDlg.CommonDialog 클래스는 로드한 컨트롤 클래스가 아닙니다.
+38 행: cd의 _ExtentX 속성 이름이 잘못되었습니다. 
+39 행: cd의 _ExtentY 속성 이름이 잘못되었습니다. 
+40 행: cd의 _Version 속성 이름이 잘못되었습니다. 
